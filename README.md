@@ -5,4 +5,13 @@ Course note repository for Brain Connectivity (PSY 394U), Spring 2019 Semester. 
 * Introduction and network data (1/28)
    * [Introduction](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Intro.ipynb)
    * [Docker & Docker image](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Docker.ipynb)
+   * [Jupyter notebook](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Jupyter.ipynb)
   
+***
+
+* Docker source
+   * [sathayas/python-network-bundle](https://github.com/sathayas/DockerSourceLibrary/edit/master/NetworkOnly): Python 3.7 with network analysis libraries.
+       * [Docker image](https://cloud.docker.com/u/sathayas/repository/docker/sathayas/python-network-bundle) available from Docker hub
+   * [sathayas/python-fsl-bundle](https://github.com/sathayas/DockerSourceLibrary/edit/master/Connectivity): `sathayas/python-network-bundle` plus neuroimaging data analysis tools.
+       * [Docker image](https://cloud.docker.com/u/sathayas/repository/docker/sathayas/python-fsl-bundle) available from Docker hub
+* [Git & GitHub tutorial](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2018/blob/master/Git.ipynb)
