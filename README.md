@@ -4,4 +4,5 @@ Course note repository for Brain Connectivity (PSY 394U), Spring 2019 Semester. 
 ## Table of contents
 * Introduction and network data (1/28)
    * [Introduction](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Intro.ipynb)
-   
+   * [Docker & Docker image](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Docker.ipynb)
+  
