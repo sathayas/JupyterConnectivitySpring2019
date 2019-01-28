@@ -6,6 +6,7 @@ Course note repository for Brain Connectivity (PSY 381D), Spring 2019 Semester. 
    * [Introduction](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Intro.ipynb)
    * [Docker & Docker image](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Docker.ipynb)
    * [Jupyter notebook](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Jupyter.ipynb)
+   * [Network data basics](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/NetworkIntro.ipynb)
   
 ***
 
