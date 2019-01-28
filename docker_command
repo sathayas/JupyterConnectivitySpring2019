@@ -1,8 +1,8 @@
 docker build -t python-network-bundle .
 
 docker run -it --rm -p 8888:8888 \
--v /home/satoru/Teaching/Connectivity_Spring_2019/Notes:/tmp/Notes:z \
--v /home/satoru/Teaching/Connectivity_Spring_2019/Codes:/tmp/Codes:z \
+-v /home/satoru/Teaching/Connectivity_Spring_2019/Notes:/tmp/Notes:Z \
+-v /home/satoru/Teaching/Connectivity_Spring_2019/Codes:/tmp/Codes:Z \
 sathayas/python-network-bundle
 
 
