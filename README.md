@@ -9,6 +9,7 @@ Course note repository for Brain Connectivity (PSY 381D), Spring 2019 Semester. 
    * [Network data basics](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/NetworkIntro.ipynb)
 * [Small-world networks](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/SmallWorld.ipynb) (2/4)
 * [Network statistics](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/NetworkStats.ipynb) (2/11)
+* [Network centrality](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Centrality.ipynb) (2/18)
 
  
  
