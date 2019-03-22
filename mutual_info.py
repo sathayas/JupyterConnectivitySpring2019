@@ -4,7 +4,7 @@ import numpy as np
 def mutual_information(X, bins):
     A = np.zeros([X.shape[1], X.shape[1]])
     for i in range(X.shape[1]):
-        print('Working on row i: %d' % i)
+        #print('Working on row i: %d' % i)
         for j in range(i+1, X.shape[1]):
             x1 = X[:,i]
             x2 = X[:,j]
