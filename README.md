@@ -13,6 +13,7 @@ Course note repository for Brain Connectivity (PSY 381D), Spring 2019 Semester. 
 * [Rich club / K-core](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/RichClub.ipynb) (2/25)
 * [Network communities](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Modules.ipynb) (3/4)
 * [Brain atlases](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Atlas.ipynb) (3/11)
+* [Functional connectivity measures](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Connectivity.ipynb) (3/25)
 
  
  
