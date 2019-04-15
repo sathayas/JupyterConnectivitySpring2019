@@ -16,6 +16,7 @@ Course note repository for Brain Connectivity (PSY 381D), Spring 2019 Semester. 
 * [Functional connectivity measures](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/Connectivity.ipynb) (3/25)
 * [Task networks](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/TaskNetwork.ipynb) (4/1)
 * [Dynamic connectivity](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/DynamicConn.ipynb) (4/8)
+* [fMRI pre-processing](https://nbviewer.jupyter.org/github/sathayas/JupyterConnectivitySpring2019/blob/master/fMRIPreprop.ipynb) (4/15)
 
  
  
